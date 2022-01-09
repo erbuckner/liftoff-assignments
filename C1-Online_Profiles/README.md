@@ -7,12 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/erbuckner?tab=overview&from=2021-12-01&to=2021-12-31
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/erin-buckner-55983016a/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+https://drive.google.com/drive/folders/1EwWb1uJRRwOs_Q9EzlXwkpTMmnRIgCZF?usp=sharing
